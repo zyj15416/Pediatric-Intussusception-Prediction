@@ -1,5 +1,5 @@
 # Pediatric-Intussusception-Prediction
-.data_loader.py - Implements custom dataset handling with medical image loading, XML annotation parsing, and data augmentation pipelines.
+.data/data_loader.py - Implements custom dataset handling with medical image loading, XML annotation parsing, and data augmentation pipelines.
 
 .models/base_models.py - Defines base architectures (ResNet/DenseNet/EfficientNet) with customized final layers and partial layer freezing.
 

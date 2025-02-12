@@ -9,4 +9,4 @@
 
 .train.py - Orchestrates the complete training workflow including model initialization, optimization, and checkpoint saving.
 
-.inference.py - Provides production-ready prediction capabilities with pre-processing and heatmap visualization for model interpretability.
+.inference.py - Provides production-ready prediction capabilities with pre-processing.
